@@ -118,7 +118,7 @@ class KrestikNolik {
                         System.out.println(ex.getMessage());
                     }
 
-
+break;
 
 
                 } else
